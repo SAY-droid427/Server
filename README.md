@@ -1,9 +1,7 @@
 # Server
 This is a project revolving around RESTful APIs.
+
 #RESTful API (REST API)
-Posted by: Margaret Rouse
-WhatIs.com
-Contributor(s): Crystal Bedell, Ed Hannan and Sarah Wilson
 
 A RESTful API is an application program interface (API) that uses HTTP requests to GET, PUT, POST and DELETE data.
 
